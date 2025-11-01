@@ -1,0 +1,20 @@
+Yararlanılabilecek kitaplar:
+
+C Dersi Programlamaya Giriş
+Nergiz Ercil Çağıltay,Gül Tokdemir,C. F. Selbes,Ç. Turhan
+Seçkin Yayıncılık
+
+C Dersi Çözümlü Problem Kitabı
+Nergiz Ercil Çağıltay,Gül Tokdemir,C. F. Selbes,Ç. Turhan
+Seçkin Yayıncılık
+
+Programlamayı C ile Öğreniyorum
+Muhammet Yorulmaz,Seher Yorulmaz
+PALME YAYINCILIK
+
+Problem Solving and Program Design in C
+Elliot B. Koffman, Jeri R. Hanly
+
+C ve C++
+Harvey M. Deitel, Paul J. Deitel
+Sistem Yayıncılık

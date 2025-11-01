@@ -1,0 +1,29 @@
+Bildirimler (Tanımlar)
+
+int (integer): Tamsayı (2 Byte) -32768 ile 32767 aralığında
+float (ondalık): Ondalık kesirli sayı (4 Byte)  1,17549e-38 ile 3,40282e+38 aralığında
+long : (veya long int) long integer uzun tamsayı -2147483648 ile 2147483648 aralığında
+double (double precion) çift duyarlıklı kesirli sayı (8 Byte) 2,22504e-308 ile 1,79769e+308 aralığında
+char: bir karakter (1 Byte) (Dizi (array) ile farklı kullanımı var.)
+string: metin (Dizi)
+
+Format karakterleri:
+veri tipi	scanf()		printf()
+----------	-------------	----------
+int		%d		%d
+long int	%d veya %ld	%d
+float		%f		%f
+double		%lf		%f
+char		%c veya %s	%c
+string		%s		%s	
+
+Yazma formatı:
+%10d
+---------- 10 basamak yer açar sağa yanaşık yazar.
+%8.2f
+-----.-- 8 basamak toplam
+%.2f ondalık kısım 2 basamak olsun
+
+ Soru:
+Bir kişinin yaşını okuyun. Kişiye hangi yıl 100 yaşında olacağını söyleyin.
+Bir araba x km yolu y saatte gidiyorsa ortalama hızı saatte kaç km olur?
